@@ -1,8 +1,24 @@
-html{
+html {
   font-family: helvetica;
   font-size: 22px;
   color: seashell;
   background-color: black;
   opacity: 0.9;
   text-align: center;
+}
+
+a {
+  color: seashell;
+}
+
+/* Header Modifier */
+
+header {
+  height: 69px;
+  display: flex;
+}
+
+#logo {
+  height: 50px;
+  padding-left: 10px;
 }
