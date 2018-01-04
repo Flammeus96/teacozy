@@ -97,10 +97,16 @@ h4{
   display: flex;
   flex: wrap;
   flex-direction: row;
+  justify-content: space-around;
   flex-grow: 1;
 }
 
-div .fallblitz img {
+div .fallblitz img,
+div .spicedrumtea img,
+div .seasonaldonuts img,
+div .myrtleave img,
+div .bedfordbizzare img {
+  display: inline-block;
   height: 200px;
   width: 300px;
 }
