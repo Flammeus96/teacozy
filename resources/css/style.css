@@ -146,10 +146,8 @@ div .flexboxcontainer1 h4 {
 .flexboxcontainer2 {
   display: flex;
   flex-wrap: wrap;
-  align-items: center;
   flex-direction: column;
   flex-grow: 1;
-  align-content: space-between;
 }
 
 div .background-2 div {
@@ -167,5 +165,9 @@ div .background-2 div p {
 }
 
 div .background-2 h2 {
+
+}
+
+.downtown{
 
 }
