@@ -174,4 +174,15 @@ div .flexboxcontainer1 h4 {
   margin-bottom: 0px;
 }
 
+
 /* Footer */
+
+.cr {
+  text-align: left;
+  opacity: 65%;
+}
+
+.footer h2 {
+  margin-top: 3px;
+  margin-bottom: 45px;
+}
